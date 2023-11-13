@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @LeighWarner99
-- 👀 I’m interested in Artificial Intelligence!
-- 🌱 I’m currently touching up on C++!
-- 📫 How to reach me 
+-  Hi, I’m Leigh and welcome to my Github account!
+-  I have completed a 4 year bacherlors hons course in computer science with data analytics.
+-  Here you can find some of the projects I done while at college and projects I have done since then.
+-  Im currently out of college since 2021 and keen to join a team!
+
 
 https://www.linkedin.com/in/leigh-warner-34baa0166/
 
